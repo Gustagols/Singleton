@@ -1,6 +1,7 @@
 # Singleton
 atividade
 
+
 public class Fila {
     private static Fila uniqueInstance;
     private int[] fila;
